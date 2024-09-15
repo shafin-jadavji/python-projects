@@ -1,2 +1,2 @@
-# My Python Projects for Beginners
+# My Beginners Python Projects
 This repository contains my beginners python projects. Each project was designed to help me sharpen my problem-solving skills and reinforce my understanding of Python
